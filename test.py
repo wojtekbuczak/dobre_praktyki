@@ -1,2 +1,0 @@
-print("Działą")
-print("#ID")
